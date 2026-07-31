@@ -87,7 +87,7 @@ export default function LandingPage({ onLaunch }) {
       <section className="sc-hero">
         <div className="sc-hero-content">
           <Reveal>
-            <div className="sc-hero-badge">GNEC Hackathon 2026 · SDG 3.2</div>
+            <div className="sc-hero-badge"></div>
             <h1 className="sc-h1">
               Every Mother,
               <br />
@@ -356,15 +356,14 @@ export default function LandingPage({ onLaunch }) {
         <div className="sc-footer-inner">
           <div>
             <div className="sc-footer-logo">
-              Maa<span>Check</span>
+              Mum<span>Check</span>
             </div>
             <div className="sc-footer-text" style={{ marginTop: 8 }}>
               Every mother, a first responder.
             </div>
           </div>
           <div className="sc-footer-text" style={{ textAlign: "right" }}>
-            SDG 3 · Target 3.2 <br />
-            GNEC Hackathon 2026
+          
           </div>
         </div>
       </footer>
