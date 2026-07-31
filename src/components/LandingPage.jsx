@@ -103,7 +103,7 @@ export default function LandingPage({ onLaunch }) {
           <Reveal delay={300}>
             <div className="sc-hero-btns">
               <button className="sc-btn sc-btn-primary" onClick={onLaunch}>
-                Launch MaaCheck
+                Launch MumCheck
               </button>
               <a href="#story" className="sc-btn sc-btn-outline">
                 Read the report ↓
@@ -224,7 +224,7 @@ export default function LandingPage({ onLaunch }) {
             </Reveal>
             <Reveal delay={250}>
               <div className="sc-gap-col good">
-                <h4>The MaaCheck Paradigm</h4>
+                <h4>The MumCheck Paradigm</h4>
                 <p>
                   A clinic on every mother's phone. Three WHO-validated
                   screenings in three minutes — completely offline, guided by
@@ -346,7 +346,7 @@ export default function LandingPage({ onLaunch }) {
             mothers who need it most.
           </p>
           <button className="sc-btn sc-btn-primary" onClick={onLaunch}>
-            Launch MaaCheck
+            Launch MumCheck
           </button>
         </Reveal>
       </section>
