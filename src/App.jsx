@@ -149,9 +149,9 @@ export default function App() {
           : `${Math.floor(age / 12)} years`;
 
   const shareResults = () => {
-    const txt = `🏥 MaaCheck Screening Result\n👶 ${name || "Child"}, ${ageStr}\n\n⚡ Danger Signs: ${dRisk.label}\n🫁 Breathing: ${rRisk.label}\n📏 Nutrition: ${mRisk.label}\n\n🔔 ${ov.action}\n\n— Screened via MaaCheck (WHO IMCI)`;
+    const txt = `🏥 MumCheck Screening Result\n👶 ${name || "Child"}, ${ageStr}\n\n⚡ Danger Signs: ${dRisk.label}\n🫁 Breathing: ${rRisk.label}\n📏 Nutrition: ${mRisk.label}\n\n🔔 ${ov.action}\n\n— Screened via MumCheck (WHO IMCI)`;
     if (navigator.share)
-      navigator.share({ title: "MaaCheck Result", text: txt }).catch(() => {});
+      navigator.share({ title: "MumCheck Result", text: txt }).catch(() => {});
     else
       window.open(`https://wa.me/?text=${encodeURIComponent(txt)}`, "_blank");
   };
