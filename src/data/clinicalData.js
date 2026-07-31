@@ -1,5 +1,5 @@
 /* ═══════════════════════════════════════════════════
-   MaaCheck — WHO Clinical Data
+   Mumcheck — WHO Clinical Data
    Based on WHO IMCI (Integrated Management of
    Childhood Illness) Guidelines, 2024 Edition
    ═══════════════════════════════════════════════════ */
@@ -221,7 +221,7 @@ export const STRINGS = {
     namePlaceholder: "e.g. Priya",
     ageLabel: "How old is your child?",
     ageInfo:
-      "Age determines safe breathing thresholds. A 2-month-old breathes up to 60 times/min — a 2-year-old only 40. MaaCheck adjusts WHO limits automatically.",
+      "Age determines safe breathing thresholds. A 2-month-old breathes up to 60 times/min — a 2-year-old only 40.  adjusts WHO limits automatically.",
     startCheck: "Start Health Check",
     dangerTitle: "Danger Signs",
     breathTitle: "Breathing Rate",
@@ -255,7 +255,7 @@ export const STRINGS = {
     helpline: "National health helpline:",
     checkAnother: "Check Another Child",
     disclaimer:
-      "MaaCheck uses WHO IMCI guidelines. This is a screening tool — not a medical diagnosis. Always consult a qualified health worker.",
+      " uses WHO IMCI guidelines. This is a screening tool — not a medical diagnosis. Always consult a qualified health worker.",
     complete: "Complete",
     screeningIncludes: "3-minute screening includes:",
     feat1Title: "Danger Signs",
@@ -272,7 +272,7 @@ export const STRINGS = {
     resMuac: "MUAC \u00b7 Nutrition",
     gapTitle: "The gap we close",
     gapDesc:
-      "Every existing tool — MUAC tape, respiratory timers, IMCI checklists — is built for trained health workers. Between CHW visits, mothers have nothing. MaaCheck gives every mother the diagnostic capability that used to require a clinic.",
+      "Every existing tool — MUAC tape, respiratory timers, IMCI checklists — is built for trained health workers. Between CHW visits, mothers have nothing.  gives every mother the diagnostic capability that used to require a clinic.",
     sdgFooter:
       "SDG 3 · Good Health & Well-Being · WHO IMCI Guidelines · Works Offline",
   },
@@ -288,7 +288,7 @@ export const STRINGS = {
     namePlaceholder: "जैसे प्रिया",
     ageLabel: "बच्चे की उम्र कितनी है?",
     ageInfo:
-      "उम्र से सांस की सुरक्षित सीमा तय होती है। 2 महीने का बच्चा 60 बार/मिनट सांस लेता है — 2 साल का सिर्फ 40। MaaCheck WHO सीमाएं स्वचालित रूप से समायोजित करता है।",
+      "उम्र से सांस की सुरक्षित सीमा तय होती है। 2 महीने का बच्चा 60 बार/मिनट सांस लेता है — 2 साल का सिर्फ 40। Mumcheck WHO सीमाएं स्वचालित रूप से समायोजित करता है।",
     startCheck: "स्वास्थ्य जाँच शुरू करें",
     dangerTitle: "खतरे के संकेत",
     breathTitle: "सांस की दर",
@@ -322,7 +322,7 @@ export const STRINGS = {
     helpline: "राष्ट्रीय स्वास्थ्य हेल्पलाइन:",
     checkAnother: "दूसरे बच्चे की जाँच करें",
     disclaimer:
-      "MaaCheck WHO IMCI दिशानिर्देशों का उपयोग करता है। यह एक स्क्रीनिंग टूल है — चिकित्सा निदान नहीं।",
+      "Mumcheck WHO IMCI दिशानिर्देशों का उपयोग करता है। यह एक स्क्रीनिंग टूल है — चिकित्सा निदान नहीं।",
     complete: "पूर्ण",
     screeningIncludes: "3 मिनट की जाँच में:",
     feat1Title: "खतरे के संकेत",
@@ -339,7 +339,7 @@ export const STRINGS = {
     resMuac: "MUAC \u00b7 पोषण",
     gapTitle: "हम कौन सी कमी पूरी करते हैं",
     gapDesc:
-      "हर मौजूदा उपकरण — MUAC टेप, श्वसन टाइमर, IMCI चेकलिस्ट — प्रशिक्षित स्वास्थ्य कर्मचारियों के लिए बना है। CHW विज़िट के बीच, माँओं के पास कुछ नहीं है। MaaCheck हर माँ को वो जाँच क्षमता देता है जो पहले सिर्फ क्लिनिक में मिलती थी।",
+      "हर मौजूदा उपकरण — MUAC टेप, श्वसन टाइमर, IMCI चेकलिस्ट — प्रशिक्षित स्वास्थ्य कर्मचारियों के लिए बना है। CHW विज़िट के बीच, माँओं के पास कुछ नहीं है। Mumcheck हर माँ को वो जाँच क्षमता देता है जो पहले सिर्फ क्लिनिक में मिलती थी।",
     sdgFooter:
       "SDG 3 · स्वास्थ्य और कल्याण · WHO IMCI दिशानिर्देश · ऑफ़लाइन काम करता है",
   },
