@@ -1,1 +1,15 @@
-
+	
+name	"MaaCheck"
+short_name	"MaaCheck"
+description	"Every Mother, A First Responder — Offline child health screening using WHO IMCI guidelines"
+start_url	"/"
+display	"standalone"
+background_color	"#0A0503"
+theme_color	"#C05B38"
+orientation	"portrait"
+icons	
+0	
+src	"/favicon.svg"
+sizes	"any"
+type	"image/svg+xml"
+purpose	"any maskable"
