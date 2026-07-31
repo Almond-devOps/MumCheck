@@ -1,8 +1,7 @@
-# MaaCheck — Every Mother, A First Responder
+# MumCheck — Every Mother, A First Responder
 
-> **GNEC Hackathon 2026 Spring · SDG 3 (Health & Well-being) · Target 3.2**
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-MaaCheck-D4603A?style=for-the-badge)](https://maacheck.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-MumCheck-D4603A?style=for-the-badge)](https://MumCheck.vercel.app)
 [![SDG 3](https://img.shields.io/badge/SDG-3%20Good%20Health-4C9F38?style=for-the-badge)](https://sdgs.un.org/goals/goal3)
 [![WHO IMCI](https://img.shields.io/badge/Guidelines-WHO%20IMCI-0078D4?style=for-the-badge)](https://www.who.int/teams/maternal-newborn-child-adolescent-health-and-ageing/child-health/integrated-management-of-childhood-illness)
 
@@ -20,7 +19,7 @@ When a mother notices her child breathing fast or getting thinner, she has **no 
 
 ## The Solution
 
-**MaaCheck** is the first offline child health screening tool built for **mothers** — not health workers.
+**MumCheck** is the first offline child health screening tool built for **mothers** — not health workers.
 
 Three WHO-validated checks. Three minutes. One clear answer.
 
@@ -43,7 +42,7 @@ Three WHO-validated checks. Three minutes. One clear answer.
 | ARI Timer | Hardware device, no integration |
 | All others | Built for clinics, not for the last mile |
 
-**No existing app combines MUAC + respiratory rate + danger signs in one mother-facing, offline, free tool.** That is the gap MaaCheck closes.
+**No existing app combines MUAC + respiratory rate + danger signs in one mother-facing, offline, free tool.** That is the gap MumCheck closes.
 
 ---
 
@@ -64,7 +63,7 @@ Three WHO-validated checks. Three minutes. One clear answer.
 
 **SDG 3.2** — End preventable deaths of newborns and children under 5.
 
-MaaCheck directly targets the *diagnostic gap* between CHW visits by empowering mothers with the same screening capability that used to require a clinic. Each screening takes 3 minutes and uses WHO IMCI clinical guidelines.
+MumCheck directly targets the *diagnostic gap* between CHW visits by empowering mothers with the same screening capability that used to require a clinic. Each screening takes 3 minutes and uses WHO IMCI clinical guidelines.
 
 ---
 
@@ -111,8 +110,8 @@ All 6 WHO IMCI general danger signs: convulsions, inability to wake, vomiting ev
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/MaaCheck.git
-cd MaaCheck
+git clone https://github.com/YOUR_USERNAME/MumCheck.git
+cd MumCheck
 
 # Install dependencies
 npm install
@@ -132,7 +131,7 @@ npm run preview
 ## Project Structure
 
 ```
-MaaCheck/
+MumCheck/
 ├── src/
 │   ├── assets/              # hero.png, chest-guide.png, muac-guide.png
 │   ├── components/
@@ -156,16 +155,9 @@ MaaCheck/
 
 ## Disclaimer
 
-MaaCheck uses WHO IMCI guidelines. This is a **screening tool — not a medical diagnosis**. Always consult a qualified health worker. MaaCheck is designed to support, not replace, community health workers.
+MumCheck uses WHO IMCI guidelines. This is a **screening tool — not a medical diagnosis**. Always consult a qualified health worker. MumCheck is designed to support, not replace, community health workers.
 
 ---
 
-## Built For
-
-**GNEC Hackathon 2026 Spring**
-Global NGO Executive Committee · UN-affiliated
-Theme: SDG 3 — Good Health and Well-being
-
----
 
 *Every mother deserves to know.*
