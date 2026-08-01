@@ -1,6 +1,6 @@
 	
-name	"MaaCheck"
-short_name	"MaaCheck"
+name	"MumCheck"
+short_name	"MumCheck"
 description	"Every Mother, A First Responder — Offline child health screening using WHO IMCI guidelines"
 start_url	"/"
 display	"standalone"
